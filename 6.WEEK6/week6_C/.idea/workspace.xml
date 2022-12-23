@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="week6_C" targetName="week6_C" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c72a19b-a202-4c97-959e-45c61c609897" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZdlibJz9GZZN6JFVRaOhSbaq9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager">
+    <configuration name="week6_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week6_C" TARGET_NAME="week6_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week6_C" RUN_TARGET_NAME="week6_C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c72a19b-a202-4c97-959e-45c61c609897" name="Default Changelist" comment="" />
+      <created>1585176979296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585176979296</updated>
+      <workItem from="1585176980488" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="340" key="GridCell.Tab.0.bottom" timestamp="1585177604426">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604426" />
+    <state width="1804" height="340" key="GridCell.Tab.0.center" timestamp="1585177604425">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604425" />
+    <state width="1804" height="340" key="GridCell.Tab.0.left" timestamp="1585177604424">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604424" />
+    <state width="1804" height="340" key="GridCell.Tab.0.right" timestamp="1585177604426">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604426" />
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom" timestamp="1585177604429">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604429" />
+    <state width="1804" height="340" key="GridCell.Tab.1.center" timestamp="1585177604427">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604427" />
+    <state width="1804" height="340" key="GridCell.Tab.1.left" timestamp="1585177604427">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604427" />
+    <state width="1804" height="340" key="GridCell.Tab.1.right" timestamp="1585177604428">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585177604428" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1585177592579">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1585177592579" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
