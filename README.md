@@ -74,4 +74,4 @@ Course: [Algorithms and Data Structures](https://openedu.ru/course/ITMOUniversit
 
 - [Test 1](Test/Test1/README.md)
 - [Test 2](Test/Test2/README.md)
-- [Test 3]((Test/Test3/README.md)
+- [Test 3](Test/Test3/README.md)
